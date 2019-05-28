@@ -13,6 +13,8 @@ class Integration(Entity):
         'aws_cloudwatch_inbound_integration_reference',
         'cloudkick_inbound_integration',
         'cloudkick_inbound_integration_reference',
+        'events_api_v2_inbound_integration',
+        'events_api_v2_inbound_integration_reference',
         'event_transformer_api_inbound_integration',
         'event_transformer_api_inbound_integration_reference',
         'generic_email_inbound_integration',
